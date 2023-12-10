@@ -1,0 +1,1 @@
+- 👋 Olá, meu nome é João Lucas Gomes Pinheiro, estudante de Análise e Desenvolvimento de Sistemas.
