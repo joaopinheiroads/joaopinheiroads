@@ -9,14 +9,18 @@
     <a href="mailto:SEUGMAIL">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
     </a>
-
-    
+    <a href="https://joaopinheiroads.github.io/PortfolioPessoalWeb/">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=generic&logoColor=white" alt="Portfolio"/>
+    </a>
 </p>
+
+
+ 
 
  ## 🤵🏽 About me:
 I am a Systems Analysis and Development student and graduated in Information Security through the Desenvolvimento Boticário program.
 I also have training in the area of ​​Public Security, as a Public Security Agent and Civil Defense Agent.
-I have knowledge in JavaScript, Java, Linux, KaliLinux, Defensive Security, Pentest, Excel, HTML, CSS, UI, UX, among others. Currently, I am looking to develop myself as a professional in the programming field and looking for opportunities to enter the market.
+I have knowledge in JavaScript, Java, Linux, KaliLinux, Defensive Security, Pentest, Excel, HTML, CSS, UI, UX, among others. Currently, I am looking to develop myself as a professional in the programming field and looking for opportunities to enter the market. 
 
 
 ## 👨🏽‍💻 Skills:
