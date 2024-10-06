@@ -38,5 +38,3 @@ I have knowledge in JavaScript, Java, Linux, KaliLinux, Defensive Security, Pent
 
 
 
-
-
