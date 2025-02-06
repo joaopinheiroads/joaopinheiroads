@@ -1,5 +1,4 @@
-
-<p align="center">
+<img src='https://www.codetriage.com/schneems/derailed_benchmarks/badges/users.svg' alt='Open Source Helpers' />
     <h1 align="center">Hi, my name is João Lucas Gomes Pinheiro</h1>
 </p>
 
